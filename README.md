@@ -1,4 +1,4 @@
-<h1 align="left">Olá :wave:! Meu nome é Igor e Eu sou analista de dados um Analista de Dados from Brazil</h1>
+<h1 align="left">Olá :wave:! Meu nome é Igor Alvaredo e Eu sou Analista de Dados do Brasil</h1>
 
 ###
 
